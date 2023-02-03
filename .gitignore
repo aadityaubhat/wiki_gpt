@@ -2,3 +2,8 @@ venv
 wiki_intro.csv
 wiki_intro_processed.csv
 config.py
+data/*
+__pycache__/*
+_archive/*
+GPT-wiki-intro.csv
+GPT-wiki-intro.csv.zip
